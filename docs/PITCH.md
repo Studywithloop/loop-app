@@ -9,20 +9,20 @@ Deck draft: the “loop. — Investor Pitch” Slides artifact (link in the team
 - Rehearse **30 times** (yes, really).
 - Sell the **problem** before the solution; show how we’re **different, not just better**; show **velocity**.
 
-## Slides, owners, timing (≈4:15 total)
+## Slides, owners, timing (≈4:00 total)
+**Professor’s instruction (Nov 11): no financial projections or funding ask in the deck. Explain CAC and LTV only.** The 3-year model stays in docs/business-plan.pdf as backup for Q&A.
+
 | # | Slide | Owner | Time |
 |---|---|---|---|
 | 0 | Title: loop. + why + presenter | Beatriz | 0:10 |
 | 1 | Problem + story | Beatriz | 0:35 |
 | 2 | Solution / benefits (+ 20 s demo) | Beatriz, Noor | 0:40 |
 | 3 | Validation / traction | Dalya | 0:25 |
-| 4 | Business model: CAC & LTV | Beatriz | 0:25 |
+| 4 | Business model: CAC & LTV explained | Beatriz | 0:40 |
 | 5 | Go-to-market | Ghaya | 0:25 |
 | 6 | Market & competition | Bianca | 0:30 |
 | 7 | Team | Everyone | 0:20 |
-| 8 | Financials (3 years) | Beatriz | 0:20 |
-| 9 | Funding ask & use of funds | Beatriz | 0:15 |
-| 10 | Vision & why (recap) | Beatriz | 0:10 |
+| 8 | Vision & why (recap) | Beatriz | 0:15 |
 
 ## Numbers to fill (every number needs a source or a stated assumption)
 - [ ] Sign-ups to date, and from which channel (Sheet → Source column) — **Dalya**
@@ -30,8 +30,7 @@ Deck draft: the “loop. — Investor Pitch” Slides artifact (link in the team
 - [ ] Market: build bottom-up from the first 100 customers → IE → Spanish universities → Europe, with sources — **Bianca**
 - [ ] Price and plan (student freemium? university licence per seat?) — **Beatriz**
 - [x] CAC and LTV, benchmarked against edtech apps: faculty licence 3.5:1; students 0.3:1 (the free app is the channel) — **Beatriz**
-- [x] 3-year revenue: realistic base case €25k → €131k → €407k, licences ≈ 80% (checked against real benchmarks: docs/numbers-check.pdf) — **Beatriz**
-- [ ] Funding ask tied to milestones (what changes in 12–18 months) — **Beatriz**
+- [x] Backup only (not in the deck): 3-year revenue €25k → €131k → €407k and a €400k pre-seed, in docs/business-plan.pdf — **Beatriz**
 
 ## Red flags to avoid (from the brief)
 “No direct competitors” · “1 % of a huge market” · vague use of funds · numbers that don’t match each other · market size without a source · LTV/CAC too good to be true.
