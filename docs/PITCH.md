@@ -29,8 +29,8 @@ Deck draft: the “loop. — Investor Pitch” Slides artifact (link in the team
 - [ ] Class feedback: responses, average usefulness /5, % “would use before exams” — **Dalya**
 - [ ] Market: build bottom-up from the first 100 customers → IE → Spanish universities → Europe, with sources — **Bianca**
 - [ ] Price and plan (student freemium? university licence per seat?) — **Beatriz**
-- [ ] CAC and LTV, benchmarked against edtech apps (keep LTV:CAC realistic, ~3:1) — **Beatriz**
-- [ ] 3-year revenue (ambition > €1M by year 3; growth like ×3, ×3, ×2, not ×10) — **Beatriz**
+- [x] CAC and LTV, benchmarked against edtech apps: faculty licence 3.5:1; students 0.3:1 (the free app is the channel) — **Beatriz**
+- [x] 3-year revenue: realistic base case €25k → €131k → €407k, licences ≈ 80% (checked against real benchmarks: docs/numbers-check.pdf) — **Beatriz**
 - [ ] Funding ask tied to milestones (what changes in 12–18 months) — **Beatriz**
 
 ## Red flags to avoid (from the brief)
