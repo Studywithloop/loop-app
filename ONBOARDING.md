@@ -10,7 +10,7 @@ loop. turns your course material into a 5-minute swipeable revision feed. Try it
 
 ## 2. Where things are
 - **Tasks, docs, pitch:** this repo, https://github.com/Studywithloop/loop-app
-- **App code (engineers):** https://github.com/ghayam0/loop (public; moving to the Studywithloop org). Anyone can read and clone it. To push changes, ask Ghaya to add you as a collaborator. Setup steps are in its README.
+- **App code (engineers):** https://github.com/Studywithloop/loop (public). Anyone can read and clone it. You’ve been invited with write access: accept it at github.com/Studywithloop/loop/invitations. Setup steps are in its README.
 - **Live app:** https://loop-roan-two.vercel.app
 
 ## 3. Find your tasks

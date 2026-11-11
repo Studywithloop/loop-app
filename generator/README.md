@@ -1,4 +1,4 @@
-> **Update (Nov 11):** this is now built in the main app repo, [ghayam0/loop](https://github.com/ghayam0/loop) (moving to Studywithloop/loop). Work on `api/generate.js` there instead of starting from scratch here.
+> **Update (Nov 11):** this is now built in the main app repo, [Studywithloop/loop](https://github.com/Studywithloop/loop). Work on `api/generate.js` there instead of starting from scratch here.
 
 # Feed generator — Beatriz
 

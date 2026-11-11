@@ -2,13 +2,13 @@
 
 **Cool kids stay in the loop.** loop. turns university course material (slides, readings, assigned videos) into a 5-minute swipeable feed: swipe to learn, swipe to test, swipe to reinforce.
 
-This repo holds the team’s **docs, pitch and task board**. **The app code lives in [ghayam0/loop](https://github.com/ghayam0/loop) (moving to the Studywithloop org)**: that is the main product code, built by Ghaya on top of the MVP.
+This repo holds the team’s **docs, pitch and task board**. **The app code lives in [Studywithloop/loop](https://github.com/Studywithloop/loop)**: that is the main product code, built by Ghaya on top of the MVP.
 
 | What | Where |
 |---|---|
 | Live landing page | https://studywithloop.github.io |
 | **Main app (v2)** | https://loop-roan-two.vercel.app: accounts, AI feeds from PDFs and YouTube, reels |
-| **Main app code** | [ghayam0/loop](https://github.com/ghayam0/loop) (moving to the Studywithloop org) |
+| **Main app code** | [Studywithloop/loop](https://github.com/Studywithloop/loop) |
 | Old MVP (v1) | https://studywithloop.github.io/app/ |
 | Landing + MVP code | [Studywithloop/studywithloop.github.io](https://github.com/Studywithloop/studywithloop.github.io) |
 | Team inbox | apploopstudy@gmail.com |
