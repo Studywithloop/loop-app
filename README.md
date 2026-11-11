@@ -15,7 +15,7 @@ This repo holds the team’s **docs, pitch and task board**. **The app code live
 | Task board | this repo’s **Issues** tab (filter by your name label) |
 
 ## Team
-Led by **Beatriz** (CEO / product). Roles and owners: [docs/TEAM.md](docs/TEAM.md).
+Seven equal partners, each owning one area. Roles and owners: [docs/TEAM.md](docs/TEAM.md).
 
 ## What’s in here
 ```

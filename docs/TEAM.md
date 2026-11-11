@@ -1,10 +1,10 @@
 # Team & task split
 
-**Lead: Beatriz (CEO · leadership & finance).** Final say on scope, priorities and the numbers; runs the weekly check-in; presents the pitch.
+**We are seven equal partners.** Each person owns one area and makes the calls inside it. Big decisions (scope, pricing, the funding ask) we make together.
 
 | Person | Role | Pitch (today) | Product (next weeks) |
 |---|---|---|---|
-| **Beatriz** | CEO · leadership & finance | Story, problem, solution, vision **+ business model, financials, funding ask**. Presents. Runs rehearsals. | Leads the team and the task board; owns the financial model and fundraising; slides → feed **generator** |
+| **Beatriz** | Finance & business model | Opening, problem and vision **+ business model, financials, funding ask** | Owns the financial model and fundraising; slides → feed **generator** |
 | **Noor** | Tech · video | 20-second live demo of the MVP (clip a video) | **Video clipper** part 1: transcript → topic segments |
 | **Ferdinand** | Tech · video | Backup demo + answers tech questions in Q&A | **Video clipper** part 2: questions per clip + plug into the app |
 | **Bianca** | Market & partnerships | Market & competition slide **with sources** | Recruit 2–3 professors for the pilot; content permissions |
@@ -17,5 +17,5 @@ Everyone: one line for the team slide (“why me for this problem”), and rehea
 ## How we work
 - **Board:** GitHub Issues in this repo. Each issue has a name label (`noor`, `bianca`, …) and an area label (`pitch`, `product`, `research`, `gtm`).
 - **Branches:** `yourname/topic` → Pull Request → one review → merge.
-- **Check-ins:** short weekly sync, run by Beatriz: what I did, what’s next, what’s blocking me.
+- **Check-ins:** short weekly sync, everyone joins: what I did, what’s next, what’s blocking me.
 - **Non-coders:** you can still use the repo: write in the `docs/` files (GitHub lets you edit Markdown in the browser) and comment on issues.

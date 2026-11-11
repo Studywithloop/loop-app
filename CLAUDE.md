@@ -17,8 +17,8 @@ Positioning: we don’t replace studying; we fill the gap between the lecture an
 - Build features in the main app repo. Don’t start a parallel clipper or generator here: extend `api/video.js` and `api/generate.js`.
 - The main app’s own README is the source of truth for its feed format and setup. The JSON below is the v1 MVP format.
 
-## Team (lead: Beatriz)
-Beatriz (CEO: leadership & finance, presents), Noor + Ferdinand (tech: video clipper), Bianca (market/competition + professor partnerships), Marcelo (operations: sales & pricing), Dalya (validation/user research), Ghaya (go-to-market, brand, Instagram). Details: docs/TEAM.md.
+## Team (7 equal partners)
+Beatriz (finance & business model), Noor + Ferdinand (tech: video clipper), Bianca (market/competition + professor partnerships), Marcelo (operations: sales & pricing), Dalya (validation/user research), Ghaya (go-to-market, brand, Instagram). Details: docs/TEAM.md.
 
 ## Brand
 Name is always lowercase **loop.** with a violet square dot. Tagline: “cool kids stay in the loop.”

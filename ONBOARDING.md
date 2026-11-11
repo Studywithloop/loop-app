@@ -1,11 +1,11 @@
 # Welcome to loop. 👋
 
-You’re on the loop. team: Beatriz (lead), Noor, Bianca, Ferdinand, Marcelo, Dalya, Ghaya.
+You’re on the loop. team: seven equal partners: Beatriz, Noor, Bianca, Ferdinand, Marcelo, Dalya, Ghaya.
 loop. turns your course material into a 5-minute swipeable revision feed. Try it: https://studywithloop.github.io/app/
 
 ## 1. Get access (5 min)
 1. Make a free GitHub account if you don’t have one: https://github.com/signup
-2. Send your GitHub username to Beatriz. She’ll invite you to the **Studywithloop** organisation.
+2. Share your GitHub username in the team WhatsApp. An org admin will invite you to the **Studywithloop** organisation.
 3. Accept the invite email from GitHub.
 
 ## 2. Where things are
@@ -33,6 +33,6 @@ Claude Code reads `CLAUDE.md` in this repo, so everyone’s Claude starts with t
 - Never put real student emails, phone numbers or grades in the repo or in Claude.
 - Passwords and API keys go in `.env`, never in a file you commit.
 - Small changes, one pull request each, and one teammate reviews before merging.
-- Stuck for more than 30 minutes? Comment on your issue and tag Beatriz.
+- Stuck for more than 30 minutes? Comment on your issue and tag the teammate who can help, or ask in the team WhatsApp.
 
 Cool kids stay in the loop. 💜
