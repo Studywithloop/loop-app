@@ -12,7 +12,7 @@ Every card must link back to its source (slide number or video timestamp). Profe
 Positioning: we don’t replace studying; we fill the gap between the lecture and sitting down to study. Main alternatives: ChatGPT/NotebookLM (need prompts, not course-aware), Quizlet/Anki (no explanations), TikTok/YouTube (not your syllabus).
 
 ## Team (lead: Beatriz)
-Beatriz (CEO/product, presents), Noor + Ferdinand (tech: video clipper), Bianca (market/competition + professor partnerships), Marcelo (business model + financials), Dalya (validation/user research), Ghaya (go-to-market, brand, Instagram). Details: docs/TEAM.md.
+Beatriz (CEO: leadership & finance, presents), Noor + Ferdinand (tech: video clipper), Bianca (market/competition + professor partnerships), Marcelo (operations: sales & pricing), Dalya (validation/user research), Ghaya (go-to-market, brand, Instagram). Details: docs/TEAM.md.
 
 ## Brand
 Name is always lowercase **loop.** with a violet square dot. Tagline: “cool kids stay in the loop.”

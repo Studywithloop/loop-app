@@ -1,14 +1,14 @@
 # Team & task split
 
-**Lead: Beatriz.** Final say on scope and priorities; runs the weekly check-in; presents the pitch.
+**Lead: Beatriz (CEO · leadership & finance).** Final say on scope, priorities and the numbers; runs the weekly check-in; presents the pitch.
 
 | Person | Role | Pitch (today) | Product (next weeks) |
 |---|---|---|---|
-| **Beatriz** | CEO · product lead | Story + title, problem, solution, vision slides. Presents. Runs rehearsals. | Slides → feed **generator** (with Claude Code); owns the task board |
+| **Beatriz** | CEO · leadership & finance | Story, problem, solution, vision **+ business model, financials, funding ask**. Presents. Runs rehearsals. | Leads the team and the task board; owns the financial model and fundraising; slides → feed **generator** |
 | **Noor** | Tech · video | 20-second live demo of the MVP (clip a video) | **Video clipper** part 1: transcript → topic segments |
 | **Ferdinand** | Tech · video | Backup demo + answers tech questions in Q&A | **Video clipper** part 2: questions per clip + plug into the app |
 | **Bianca** | Market & partnerships | Market & competition slide **with sources** | Recruit 2–3 professors for the pilot; content permissions |
-| **Marcelo** | Business & finance | Business model (CAC/LTV) + financials + funding ask | Pricing / willingness-to-pay survey; cost model |
+| **Marcelo** | Operations · sales & pricing | Q&A backup on pricing and university sales; day-of logistics | Willingness-to-pay survey; university sales pipeline; contracts & GDPR paperwork |
 | **Dalya** | Validation & research | Traction slide: sign-ups, class feedback, quotes | 30 interviews + the 48-hour recall experiment |
 | **Ghaya** | Go-to-market & brand | GTM slide + deck design polish | Instagram launch, #coolkidsstayintheloop campaign, ambassadors |
 
