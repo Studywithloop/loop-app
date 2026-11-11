@@ -1,3 +1,5 @@
+> **Update (Nov 11):** this is now built in the main app repo, [ghayam0/loop](https://github.com/ghayam0/loop) (moving to Studywithloop/loop). Work on `api/video.js` there instead of starting from scratch here.
+
 # Video clipper — Noor & Ferdinand
 
 **Goal:** a professor assigns a YouTube video → loop. returns short clips cut **by topic** (not every 90 s), each with one recall question, in the shared feed format (see `CLAUDE.md`).

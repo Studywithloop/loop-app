@@ -11,6 +11,12 @@ Every card must link back to its source (slide number or video timestamp). Profe
 
 Positioning: we don’t replace studying; we fill the gap between the lecture and sitting down to study. Main alternatives: ChatGPT/NotebookLM (need prompts, not course-aware), Quizlet/Anki (no explanations), TikTok/YouTube (not your syllabus).
 
+## Where the code lives
+- **Main app code:** github.com/ghayam0/loop (moving to Studywithloop/loop). It is a Vercel app with a static frontend (`index.html`, `app/index.html`), serverless API routes in `api/` (`generate.js` PDF→feed, `video.js` YouTube→feed, `explain.js`, `voice.js`), and Supabase for accounts and data (`supabase/schema.sql`, RLS on every table). Live: https://loop-roan-two.vercel.app
+- **This repo (loop-app):** docs, pitch, PDFs and the task board (Issues). No product code.
+- Build features in the main app repo. Don’t start a parallel clipper or generator here: extend `api/video.js` and `api/generate.js`.
+- The main app’s own README is the source of truth for its feed format and setup. The JSON below is the v1 MVP format.
+
 ## Team (lead: Beatriz)
 Beatriz (CEO: leadership & finance, presents), Noor + Ferdinand (tech: video clipper), Bianca (market/competition + professor partnerships), Marcelo (operations: sales & pricing), Dalya (validation/user research), Ghaya (go-to-market, brand, Instagram). Details: docs/TEAM.md.
 
